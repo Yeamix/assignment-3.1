@@ -39,3 +39,10 @@ body{
 .icons-2{
     gap: 40px;
 }
+.slids{
+    background-color: black;
+    opacity: 50%;
+}
+/* .carousel-item{
+    background-color: darkslategray;
+} */
