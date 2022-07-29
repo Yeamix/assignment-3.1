@@ -22,3 +22,20 @@
 .company{
     gap: 30px;
 }
+.company-1{
+    margin-bottom: 100px;
+}
+body{
+    font-family: 'Poppins', sans-serif;
+    margin: 0px;
+}
+.footer{
+    height: 400px;
+}
+.icons{
+    font-size: 30px;
+    color: white;
+}
+.icons-2{
+    gap: 40px;
+}
